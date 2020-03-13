@@ -1,6 +1,6 @@
 List of functionalities:
 
-1. Dashboard UI
+1. Dashboard UI (Using Materialize UI)
 2. Flex
 3. Local Storage
 4. Hooks
